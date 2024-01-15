@@ -6,7 +6,7 @@ function App() {
   return (
     <CartItemsProvider>
       <div className="App" data-testid="app">
-        <Home />
+        <Home 2/>
       </div>
     </CartItemsProvider>
   );
